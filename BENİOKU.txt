@@ -1,0 +1,2 @@
+Klasörün içindeki klasörleri oyunun kuruluğu olduğu yere atınız.
+Uyumlu olduğu sürüm  v0.2.0
